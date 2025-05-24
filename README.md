@@ -37,7 +37,7 @@ subdelay "movie.srt" 2000
 
 Advance subtitles by 1.5 seconds (-1500ms):
 ```bash
-bashsubs "anime.ass" -1500
+subdelay "anime.ass" -1500
 ```
 
 ### Supported Formats
