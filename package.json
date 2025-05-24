@@ -1,6 +1,6 @@
 {
     "name": "subdelay",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "CLI tool to shift/delay subtitle timing in .srt and .ass files",
     "main": "index.js",
     "bin": {
